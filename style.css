@@ -1,0 +1,22 @@
+body{
+    background-image: url("https://images.unsplash.com/photo-1483913433113-0606d63c02d4?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=77d7d9bd6838723db49c29916d9e96c1&auto=format&fit=crop&w=500&q=60");
+   
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btn{
+    font-weight: 400;
+  text-transform: uppercase;
+  border-radius: 200px;
+    }
+ .btn-xl {
+    padding: 1rem 2rem; 
+  }
+  .btn-primary:hover {
+    background-color: #f54b75;
+    border-color: #f54b75;
+    border-width: 5px;
+    cursor: pointer;
+  }
+
